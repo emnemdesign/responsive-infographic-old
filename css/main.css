@@ -11,7 +11,7 @@ html {
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
 
-  color: #efefef;
+  color: #000;
   font-family: Helvetica, serif;
   font-size: 100%;
   line-height: 1.5;
@@ -23,4 +23,5 @@ html {
 
 body {
   margin: 0;
+
 }
